@@ -1,0 +1,290 @@
+<temporada>
+  <ano>2015/2016</ano>
+  <jogos>
+    <jogo>
+      <id>1</id>
+      <data>2015-08-23</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8634</id>
+        <nome>Barcelona</nome>
+      </timeVisitante>
+      <publico>85000</publico>
+      <renda>1000000</renda>
+    </jogo>
+    <jogo>
+      <id>2</id>
+      <data>2015-09-12</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8302</id>
+        <nome>Sevilla</nome>
+      </timeVisitante>
+      <publico>80000</publico>
+      <renda>900000</renda>
+    </jogo>
+    <jogo>
+      <id>3</id>
+      <data>2015-09-23</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8315</id>
+        <nome>Athletic Bilbao</nome>
+      </timeVisitante>
+      <publico>75000</publico>
+      <renda>850000</renda>
+    </jogo>
+    <jogo>
+      <id>4</id>
+      <data>2015-10-04</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>10267</id>
+        <nome>Valencia</nome>
+      </timeVisitante>
+      <publico>82000</publico>
+      <renda>920000</renda>
+    </jogo>
+    <jogo>
+      <id>5</id>
+      <data>2015-10-25</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>9910</id>
+        <nome>Celta Vigo</nome>
+      </timeVisitante>
+      <publico>78000</publico>
+      <renda>870000</renda>
+    </jogo>
+    <jogo>
+      <id>6</id>
+      <data>2015-11-08</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8306</id>
+        <nome>Las Palmas</nome>
+      </timeVisitante>
+      <publico>68000</publico>
+      <renda>670000</renda>
+    </jogo>
+    <jogo>
+      <id>7</id>
+      <data>2015-11-21</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8372</id>
+        <nome>Eibar</nome>
+      </timeVisitante>
+      <publico>74000</publico>
+      <renda>830000</renda>
+    </jogo>
+    <jogo>
+      <id>8</id>
+      <data>2015-12-05</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8634</id>
+        <nome>Barcelona</nome>
+      </timeVisitante>
+      <publico>90000</publico>
+      <renda>1100000</renda>
+    </jogo>
+    <jogo>
+      <id>9</id>
+      <data>2015-12-20</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8315</id>
+        <nome>Athletic Bilbao</nome>
+      </timeVisitante>
+      <publico>76000</publico>
+      <renda>850000</renda>
+    </jogo>
+    <jogo>
+      <id>10</id>
+      <data>2016-01-09</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>10267</id>
+        <nome>Valencia</nome>
+      </timeVisitante>
+      <publico>82000</publico>
+      <renda>910000</renda>
+    </jogo>
+    <jogo>
+      <id>11</id>
+      <data>2016-01-24</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8302</id>
+        <nome>Sevilla</nome>
+      </timeVisitante>
+      <publico>77000</publico>
+      <renda>890000</renda>
+    </jogo>
+    <jogo>
+      <id>12</id>
+      <data>2016-02-07</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8306</id>
+        <nome>Las Palmas</nome>
+      </timeVisitante>
+      <publico>73000</publico>
+      <renda>750000</renda>
+    </jogo>
+    <jogo>
+      <id>13</id>
+      <data>2016-02-14</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8315</id>
+        <nome>Athletic Club</nome>
+      </timeVisitante>
+      <publico>81000</publico>
+      <renda>940000</renda>
+    </jogo>
+    <jogo>
+      <id>14</id>
+      <data>2016-02-28</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>10205</id>
+        <nome>Villarreal</nome>
+      </timeVisitante>
+      <publico>78000</publico>
+      <renda>870000</renda>
+    </jogo>
+    <jogo>
+      <id>15</id>
+      <data>2016-03-02</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8581</id>
+        <nome>Levante</nome>
+      </timeVisitante>
+      <publico>71000</publico>
+      <renda>800000</renda>
+    </jogo>
+    <jogo>
+      <id>16</id>
+      <data>2016-03-12</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>9910</id>
+        <nome>Celta de Vigo</nome>
+      </timeVisitante>
+      <publico>75000</publico>
+      <renda>850000</renda>
+    </jogo>
+    <jogo>
+      <id>17</id>
+      <data>2016-03-20</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8302</id>
+        <nome>Sevilla</nome>
+      </timeVisitante>
+      <publico>78000</publico>
+      <renda>890000</renda>
+    </jogo>
+    <jogo>
+      <id>18</id>
+      <data>2016-04-02</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8372</id>
+        <nome>Eibar</nome>
+      </timeVisitante>
+      <publico>74000</publico>
+      <renda>850000</renda>
+    </jogo>
+    <jogo>
+      <id>19</id>
+      <data>2016-04-09</data>
+      <estadio>Santiago Bernabeu</estadio>
+      <timeCasa>
+        <id>8633</id>
+        <nome>Real Madrid</nome>
+      </timeCasa>
+      <timeVisitante>
+        <id>8558</id>
+        <nome>Espanyol</nome>
+      </timeVisitante>
+      <publico>80000</publico>
+      <renda>930000</renda>
+    </jogo>
+  </jogos>
+</temporada>
